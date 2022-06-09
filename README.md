@@ -15,5 +15,5 @@ Statistics...
 </div> 
 <div>
     <a href="https://github.com/anuraghazra/github-readme-stats"></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ggilperez&exclude_repo=GuillermoGA.github.io&layout=compact&theme=nightowl">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ggilperez&exclude_repo=ggilperez.github.io&layout=compact&theme=nightowl">
 </div> 
